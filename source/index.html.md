@@ -69,8 +69,6 @@ This version signifies a step towards embracing Everything as Code paradigm, but
 
 Development of the standard is coordinated in Open Data Product Initiative (ODPI) which was established in July 2022 to make it possible for the specification to grow and become institutionlized. The ODPI was taken under the wings of open source chapter of Open Collective.
 
-![odps-features](images/features.png)
-
 ## Specification aims and aspects
 
 **Specification aims:**
