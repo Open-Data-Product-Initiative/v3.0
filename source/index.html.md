@@ -1,5 +1,5 @@
 ---
-title: Open Data Product Specification 3.0 RC | Enabling Data Economy | Open Data Product Initiative
+title: Open Data Product Specification 3.0 | Enabling Data Economy 
 
 language_tabs: # must be one of https://git.io/vQNgJ
 - yaml
@@ -31,21 +31,18 @@ meta:
     content: The Open Data Product Specification is a vendor-neutral, open-source machine-readable data product metadata model. It defines the objects and attributes as well as the structure of digital data products. 
 ---
 
-# OPEN DATA PRODUCT SPECIFICATION 3.0 RC
+# OPEN DATA PRODUCT SPECIFICATION 3.0 
 
-## Release Candidate version 
+## Production version 
 
 The key words “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT”, “SHOULD”, “SHOULD NOT”, “RECOMMENDED”, “NOT RECOMMENDED”, “MAY”, and “OPTIONAL” in this document are to be interpreted as described in BCP 14 [RFC2119] [RFC8174] when, and only when, they appear in all capitals, as shown here.
 
-The specification is shared under <a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache 2.0</a> license. Copyright is held by the creators of the specification: Jarkko Moilanen, Jussi Niilahti and Toni Luhti.
-
-
-**VERSION 3.0 RC**
+**VERSION 3.0**
 
 
 **Version source:**
 
-* <a href="https://github.com/Open-Data-Product-Initiative/v3.0rc">https://github.com/Open-Data-Product-Initiative/v3.0rc</a>
+* <a href="https://github.com/Open-Data-Product-Initiative/v3.0">https://github.com/Open-Data-Product-Initiative/v3.0</a>
 
 **ODPS YAML Schema:**
 
@@ -59,7 +56,7 @@ The specification is shared under <a href='https://www.apache.org/licenses/LICEN
 
 **Participate:**
 
-* [Raise an issue in Github](https://github.com/Open-Data-Product-Initiative/v3.0rc/issues)
+* [Raise an issue in Github](https://github.com/Open-Data-Product-Initiative/v3.0/issues)
 
 ## Introduction
 
@@ -92,7 +89,7 @@ The specification has been designed with four major aspects of the data product 
 ![odps-model](images/ODPS-design.png)
 
 
-If you see something missing, described inaccurately or plain wrong, or you want to comment the specification, [raise an issue in Github](https://github.com/Open-Data-Product-Initiative/v3.0rc/issues)
+If you see something missing, described inaccurately or plain wrong, or you want to comment the specification, [raise an issue in Github](https://github.com/Open-Data-Product-Initiative/v3.0/issues)
 
 ## Document structure
 
@@ -175,7 +172,7 @@ RecommendedUseCases **OBJECT** is an array which contains offers method to attac
 > Example of document level attribute usage and structure:
 
 ```yml
-schema: https://opendataproducts.org/v3.0rc/schema/odps.yaml
+schema: https://opendataproducts.org/v3.0/schema/odps.yaml
 version: 3.0
 product:
   details: 
@@ -244,4 +241,4 @@ product:
 | **useCaseURL**| URL | Valid URL, [RFC 3986](https://datatracker.ietf.org/doc/html/rfc3986) | Valid URL of the more detailed usecase description. |
 | **recommendedDataProducts** | array | Array of valid URLs ([RFC 3986](https://datatracker.ietf.org/doc/html/rfc3986)) | Data products to recommend use next to this data product or even as replacement (for comparison). The URL provided MUST reference a description of a data product following this same standard |
 
-If you see something missing, described inaccurately or plain wrong, or you want to comment the specification, [raise an issue in Github](https://github.com/Open-Data-Product-Initiative/v3.0rc/issues)
+If you see something missing, described inaccurately or plain wrong, or you want to comment the specification, [raise an issue in Github](https://github.com/Open-Data-Product-Initiative/v3.0/issues)
