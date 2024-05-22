@@ -46,7 +46,7 @@ The key words “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL 
 
 **ODPS YAML Schema:**
 
-* <a href="https://opendataproducts.org/v3.0rc/schema/odps.yaml">YAML Schema</a>
+* <a href="https://opendataproducts.org/v3.0/schema/odps.yaml">YAML Schema</a>
 
 **Editors:**
 
@@ -129,7 +129,7 @@ Here's the list of attributes which can occur at the document root level. In the
 > Example of document level attribute usage and structure:
 
 ```yml
-schema: https://opendataproducts.org/v3.0rc/schema/odps.yaml
+schema: https://opendataproducts.org/v3.0/schema/odps.yaml
 version: 3.0
 product:
   details:
