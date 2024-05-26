@@ -22,12 +22,9 @@ Specification aims
   <img src="https://raw.githubusercontent.com/Open-Data-Product-Initiative/open-data-product-spec/main/source/images/datapipeline-hydra.jpg" alt="Open Data Product Specification usage in data value chain" width="800">/
 </p>
 
-
-Companies Using Open Data Product Specification
----------------------------------
-
-* ...
-
+Governance
+------------
+Governance and decision-making are defined in [Technical Charter](https://github.com/Open-Data-Product-Initiative/.github/blob/cc65e32f791d4fd51d5f58d15cc5ed85eb38efd0/profile/Technical-Charter-5-14-2024.pdf.pdf). 
 
 Questions? Need Help? Found a bug?
 --------------------
