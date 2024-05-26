@@ -57,6 +57,7 @@ The key words “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL 
 **Participate:**
 
 * [Raise an issue in Github](https://github.com/Open-Data-Product-Initiative/v3.0/issues)
+* [Technical Charter](https://github.com/Open-Data-Product-Initiative/v3.0/blob/5ca6c06697aeb43ee39f63e22545deae9257ea10/source/docs/Technical-Charter-5-14-2024.pdf.pdf)
 
 ## Introduction
 
