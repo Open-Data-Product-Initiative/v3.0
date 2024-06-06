@@ -1,5 +1,5 @@
 ---
-title: Open Data Product Specification 3.0 | Enabling Data Economy 
+title: Open Data Product Specification 3.0 | Linux Foundation Project 
 
 language_tabs: # must be one of https://git.io/vQNgJ
 - yaml
@@ -7,6 +7,7 @@ language_tabs: # must be one of https://git.io/vQNgJ
 toc_footers:
   - License <a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache 2.0</a>
   - <br/><a href='https://opendataproducts.org'>Specification home</a>
+  - Linux Foundation Project
 
 includes:
   - sla
@@ -32,6 +33,8 @@ meta:
 ---
 
 # OPEN DATA PRODUCT SPECIFICATION 3.0 
+
+ODPS is a Linux Foundation project aiming to develop a vendor-neutral, open-source machine-readable data product metadata model.
 
 ## Production version 
 
